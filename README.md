@@ -12,3 +12,5 @@ https://github.com/viesturz/tapchanger
 https://github.com/viesturz/klipper-toolchanger
 
 The modification is in testing. I am not responsible for any damage that this file may cause.
+
+All credits for Viesturz.
